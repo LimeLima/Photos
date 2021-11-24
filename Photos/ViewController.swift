@@ -23,7 +23,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             let image = UIImage(named: "image\(i)")!
             images.append(image)
         }
-        print("Hello")
+        print("Hello, Alima")
     }
     
     func numberOfSections(in collectionView: UICollectionView) -> Int {
